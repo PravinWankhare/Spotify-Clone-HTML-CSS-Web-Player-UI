@@ -34,4 +34,3 @@ A responsive **Spotify Web Player UI Clone** built using **HTML** and **CSS**. T
   - **Hover Effects** for interactive UI  
   - **Google Fonts** for typography  
 - **Font Awesome Icons** (for buttons and controls)
-- 
