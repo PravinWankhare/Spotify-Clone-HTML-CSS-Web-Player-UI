@@ -5,7 +5,7 @@ A responsive **Spotify Web Player UI Clone** built using **HTML** and **CSS**. T
 ---
 
 ## 📸 Screenshot  
-![Spotify Clone Screenshot](Spotify-Clone-Screenshot.png)
+![Spotify Clone Screenshot](https://github.com/PravinWankhare/Spotify-Clone-HTML-CSS-Web-Player-UI/blob/main/Spotify-Clone%20Screenshot.png)
 
 ---
 
